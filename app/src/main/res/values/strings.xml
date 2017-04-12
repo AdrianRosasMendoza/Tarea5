@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="nombre">Adrián Rosas</string>
+    <string name="telefono">5545657136</string>
+    <string name="correo">adrian@gmail.com</string>
+    <string name="pnombre">Nombre</string>
+    <string name="ptelefono">Telefono</string>
+    <string name="pemail">Email</string>
+    <string name="likes"># de Likes</string>
+
+
+
+</resources>
